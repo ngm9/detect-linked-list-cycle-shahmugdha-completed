@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+
+# Node / TypeScript
+node_modules/
+dist/
+*.js.map
+
+# Java
+target/
+*.class
+*.jar
+
+# C++
+*.o
+*.out
+build/
+cpp/cycle_test
